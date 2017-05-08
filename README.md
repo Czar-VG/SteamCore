@@ -1,3 +1,5 @@
+# Edits  
+Added cfg support  
 # SteamCore
 
 _If you see a bug, want to add a new feature or want me to make a change, you should create an issue [here](https://github.com/polvora/SteamCore/issues/new)._
